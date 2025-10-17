@@ -78,6 +78,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera es físi
 
 ![Imagen de la situación](Lab3-images/Situacion-9.gif)
 
+Al hacer la esfera un objeto físico, ahora sí le afectan las fuerzas como la gravedad y demás. En este caso no notamos demasiada diferencia por lo que comentamos en el punto anterior, donde la esfera estaba incluida en la jerarquía del plano y por ello caía con él, debido a la posición relativa. En este caso, aunque el plano no se moviese, la esfera seguiría cayendo.
+
 
 
 ### Ejercicios Físicas 3D - Scripts
