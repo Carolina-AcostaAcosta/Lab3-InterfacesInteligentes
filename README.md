@@ -70,6 +70,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera no es f�
 
 ![Imagen de la situación](Lab3-images/Situacion-8.gif)
 
+Al poner todos los objetos como físicos excepto a la esfera, pensamos que la esfera no se moverá, pues no estará afectada por la gravedad pero, al estar en la jerarquía del plano y este caerse, la esfera pasa a moverse con él. Por otro lado, con el trigger activado, se supone que la esfera pasa a ser capaz de distinguir cuándo un objeto entra en su collider.
+
 **Situación 9:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera es física y es Trigger. En este caso, todos los objetos deben tener Rigidbody.
