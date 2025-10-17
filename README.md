@@ -10,7 +10,11 @@
 
 **Situación 1:**
 
-El plano no es un objeto físico. El cubo es un objeto físico y la esfera no. En este caso, el plano y la esfera sólo tendrán collider, mientras que el cubo debe tener Rigidbody. 
+El plano no es un objeto físico. El cubo es un objeto físico y la esfera no. En este caso, el plano y la esfera sólo tendrán collider, mientras que el cubo debe tener Rigidbody.
+
+![Imagen de la situación](Lab3-images/Situacion-1.gif)
+
+Cambiamos el tamaño del cubo para que se visualicen mejor las físicas, pues con tamaño 1 se quedaba donde estaba. Con escala 0.5, se ve con suficiente distancia al plano, y al agregarle un RigidBody cae cuando le damos al play.
 
 **Situación 2:** 
 
