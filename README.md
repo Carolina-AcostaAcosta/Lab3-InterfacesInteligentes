@@ -30,6 +30,8 @@ El plano no es un objeto físico. El cubo es un objeto físico y la esfera es ci
 
 ![Imagen de la situación](Lab3-images/Situacion-3.gif)
 
+En este caso, como la esfera es cinemática, aunque tenga RigidBody, no le afecta la gravedad, y s emovería solo con un script o algo por el estilo agregado. Mientras, el cubo sigue cayendo.
+
 **Situación 4:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera es física. En este caso, todos los objetos deben tener Rigidbody.
