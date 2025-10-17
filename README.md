@@ -62,6 +62,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera es físi
 
 ![Imagen de la situación](Lab3-images/Situacion-7.gif)
 
+Al aumentar la fricción en la esfera, el resultado esperado es que disminuya la velocidad de la misma al chocar y rodar contra el plano.
+
 **Situación 8:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera no es física y es Trigger. En este caso, todos los objetos deben tener Rigidbody.
