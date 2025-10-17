@@ -46,6 +46,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera es físi
 
 ![Imagen de la situación](Lab3-images/Situacion-5.gif)
 
+A partir de este momento, para ser capaces de ver los cambios reales que estamos realizando, ponemos el plano como objeto físico pero cinemático, de esta forma no se ve afectado por la gravedad y tanto el cubo como la esfera pueden colisionar con él. Para este caso concreto, volvemos a colocar el cubo en posición y = 0.5, de esta forma vemos una diferencia clara en lo que hace aumentar la masa a la esfera. Los objetos caen a la misma velocidad, no se ve modificada por el cambio en masa, pero sí se ve un aumento de fuerza al chocar (F = m * a), lo que hace que el cubo reaccione más cuando tocan, podría incluso llegar a volcar si el peso fuese mayor.
+
 **Situación 6:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera es física con 100 veces más masa que el cubo. En este caso, todos los objetos deben tener Rigidbody.
