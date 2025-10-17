@@ -38,6 +38,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera es físi
 
 ![Imagen de la situación](Lab3-images/Situacion-4.gif)
 
+Al poner el plano como objeto físico, si no lo ponemos cinemático, se caerá con el resto de elementos como la esfera y el cubo, pues le afecta la gravedad.
+
 **Situación 5:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera es física con 10 veces más masa que el cubo. En este caso, todos los objetos deben tener Rigidbody.
