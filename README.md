@@ -54,6 +54,8 @@ El plano es un objeto físico. El cubo es un objeto físico y la esfera es físi
 
 ![Imagen de la situación](Lab3-images/Situacion-6.gif)
 
+Como comentábamos previamente, al aumentar aún más el peso de la esfera podemos comprobar que la fuerza es mucho mayor a la hora de chocar contra el cubo.
+
 **Situación 7:**
 
 El plano es un objeto físico. El cubo es un objeto físico y la esfera es física con fricción. En este caso, todos los objetos deben tener Rigidbody.
